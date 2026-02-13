@@ -1,3 +1,10 @@
 {
+    "files.exclude": {
+        "node_modules": true,
+        ".vscode": true,
+        "src/*.js": true,
+        ".gitignore": true,
+        "package-lock.json": true
+    },
     "problems.sortOrder": "position"
 }
